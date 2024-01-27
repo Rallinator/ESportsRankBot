@@ -1,0 +1,9 @@
+.idea/
+log.txt
+heapdump*
+
+*~
+*.swp
+*.gz
+
+/target/
